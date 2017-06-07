@@ -5,7 +5,7 @@ HashNest API integration. Ruby gem.
 
 Add this line to your application's Gemfile:
 
-    gem 'hashnest', github: 'yinchangxin/hashnest-api'
+    gem 'hashnest', github: 'hashnest/hashnest-api'
 
 And then execute:
 
